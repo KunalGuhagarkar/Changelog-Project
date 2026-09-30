@@ -4,7 +4,7 @@ A changelog component built with plain HTML and CSS. It shows a curved timeline 
 
 This project is a practice exercise in **CSS positioning and layout** (`position: relative` / `absolute`, `transform`, flexbox) combined with an inline **SVG** path for the timeline.
 
-This project is based on the Changelog Component challenge from [roadmap.sh.](https://claude.ai/chat/2333b319-88c7-4328-9f1a-df00c5bb08c2#:~:text=This%20project%20is%20based%20on%20the%20Changelog%20Component%20challenge%20from%20roadmap.sh.)
+This project is based on the Changelog Component challenge from [roadmap.sh.](https://roadmap.sh/projects/changelog-component)
 
 ## Preview
 ![Frontend Image](image.png)
