@@ -67,7 +67,3 @@ Optionally, use a local server such as the VS Code **Live Server** extension.
 ## Author
 
 Created by **Kunal M. Guhagarkar**
-
-## License
-
-This project is open for learning and personal use. Add a license (for example MIT) if you plan to distribute it.
