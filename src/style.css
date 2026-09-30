@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+}
+
+/* Heading Container */
+
+.heading-container {
+    height: 18vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+}
+
+/* Heading Text */
+
+.heading-container > h1 {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.heading-container > p {
+    font-size: 16px;
+    color: #9b9b9b;
+}
+
+.heading-container > h2 {
+    font-size: 40px;
+    font-weight: normal;
+    color: #9b9b9b;
+}
+
+/* Main Container */
+
+#main-container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+/* first circle */
+#circle-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(363.49px) translateY(124.68px);
+}
+
+.subject-text {
+    position: absolute;
+    font-size: 15px;
+    white-space: nowrap;
+    transform: translateX(10px) translateY(10px);
+}
+
+.month-text {
+    font-size: 18px;
+    color: #9b9b9b;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    position: absolute;
+    transform: translateX(-40px) translateY(55px);
+}
+
+/* second circle */
+#circle-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(543px) translateY(230px);
+}
+
+/* third circle */
+#circle-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(743px) translateY(295px);
+}
+
+/* fourth circle */
+#circle-4 {
+    position: absolute;
+}
+
+/* fifth circle */
+#circle-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(1143px) translateY(410px);
+}
+
+/* sixth circle */
+#circle-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(1343px) translateY(480px);
+}
+
+/* seventh circle */
+#circle-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(1543px) translateY(620px);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+}
