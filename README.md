@@ -44,8 +44,8 @@ The page displays:
 
 1. Clone or download the project:
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/KunalGuhagarkar/Changelog-Project
+   cd Changelog-Project
    ```
 2. Open `index.html` in your browser. No build step or dependencies are needed.
 
